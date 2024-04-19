@@ -1,0 +1,14 @@
+C:\Users\phone\Documents\Visual Studio 2008\Projects\Pomodoro Timer - Working Windows Mobile 6 Pro\Pomodoro Timer - Working Windows Mobile 6 Pro\bin\Debug\Pomodoro Timer - Working Windows Mobile 6 Pro.exe
+C:\Users\phone\Documents\Visual Studio 2008\Projects\Pomodoro Timer - Working Windows Mobile 6 Pro\Pomodoro Timer - Working Windows Mobile 6 Pro\bin\Debug\Pomodoro Timer - Working Windows Mobile 6 Pro.pdb
+C:\Users\phone\Documents\Visual Studio 2008\Projects\Pomodoro Timer - Working Windows Mobile 6 Pro\Pomodoro Timer - Working Windows Mobile 6 Pro\bin\Debug\Pomodoro Timer - Working Windows Mobile 6 Pro.xml
+C:\Users\phone\Documents\Visual Studio 2008\Projects\Pomodoro Timer - Working Windows Mobile 6 Pro\Pomodoro Timer - Working Windows Mobile 6 Pro\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\phone\Documents\Visual Studio 2008\Projects\Pomodoro Timer - Working Windows Mobile 6 Pro\Pomodoro Timer - Working Windows Mobile 6 Pro\obj\Debug\SmartDeviceProject1.Form1.resources
+C:\Users\phone\Documents\Visual Studio 2008\Projects\Pomodoro Timer - Working Windows Mobile 6 Pro\Pomodoro Timer - Working Windows Mobile 6 Pro\obj\Debug\SmartDeviceProject1.Resources.resources
+C:\Users\phone\Documents\Visual Studio 2008\Projects\Pomodoro Timer - Working Windows Mobile 6 Pro\Pomodoro Timer - Working Windows Mobile 6 Pro\obj\Debug\Pomodoro Timer - Working Windows Mobile 6 Pro.vbproj.GenerateResource.Cache
+C:\Users\phone\Documents\Visual Studio 2008\Projects\Pomodoro Timer - Working Windows Mobile 6 Pro\Pomodoro Timer - Working Windows Mobile 6 Pro\obj\Debug\Pomodoro Timer - Working Windows Mobile 6 Pro.exe
+C:\Users\phone\Documents\Visual Studio 2008\Projects\Pomodoro Timer - Working Windows Mobile 6 Pro\Pomodoro Timer - Working Windows Mobile 6 Pro\obj\Debug\Pomodoro Timer - Working Windows Mobile 6 Pro.xml
+C:\Users\phone\Documents\Visual Studio 2008\Projects\Pomodoro Timer - Working Windows Mobile 6 Pro\Pomodoro Timer - Working Windows Mobile 6 Pro\obj\Debug\Pomodoro Timer - Working Windows Mobile 6 Pro.pdb
+C:\Users\phone\Documents\Visual Studio 2008\Projects\Pomodoro Timer - Working Windows Mobile 6 Pro\Pomodoro Timer - Working Windows Mobile 6 Pro\bin\Debug\hai.wav
+C:\Users\phone\Documents\Visual Studio 2008\Projects\Pomodoro Timer - Working Windows Mobile 6 Pro\Pomodoro Timer - Working Windows Mobile 6 Pro\bin\Debug\hard.wav
+C:\Users\phone\Documents\Visual Studio 2008\Projects\Pomodoro Timer - Working Windows Mobile 6 Pro\Pomodoro Timer - Working Windows Mobile 6 Pro\bin\Debug\koko.wav
+C:\Users\phone\Documents\Visual Studio 2008\Projects\Pomodoro Timer - Working Windows Mobile 6 Pro\Pomodoro Timer - Working Windows Mobile 6 Pro\bin\Debug\nice.wav

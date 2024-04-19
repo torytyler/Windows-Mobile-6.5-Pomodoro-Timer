@@ -1,0 +1,10 @@
+C:\Users\phone\AppData\Local\Temporary Projects\SmartDeviceProject1\bin\Release\SmartDeviceProject1.exe
+C:\Users\phone\AppData\Local\Temporary Projects\SmartDeviceProject1\bin\Release\SmartDeviceProject1.pdb
+C:\Users\phone\AppData\Local\Temporary Projects\SmartDeviceProject1\bin\Release\SmartDeviceProject1.xml
+C:\Users\phone\AppData\Local\Temporary Projects\SmartDeviceProject1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\phone\AppData\Local\Temporary Projects\SmartDeviceProject1\obj\Release\SmartDeviceProject1.Form1.resources
+C:\Users\phone\AppData\Local\Temporary Projects\SmartDeviceProject1\obj\Release\SmartDeviceProject1.Resources.resources
+C:\Users\phone\AppData\Local\Temporary Projects\SmartDeviceProject1\obj\Release\SmartDeviceProject1.vbproj.GenerateResource.Cache
+C:\Users\phone\AppData\Local\Temporary Projects\SmartDeviceProject1\obj\Release\SmartDeviceProject1.exe
+C:\Users\phone\AppData\Local\Temporary Projects\SmartDeviceProject1\obj\Release\SmartDeviceProject1.xml
+C:\Users\phone\AppData\Local\Temporary Projects\SmartDeviceProject1\obj\Release\SmartDeviceProject1.pdb
